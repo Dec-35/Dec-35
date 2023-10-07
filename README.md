@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my department's website](bdeinfo.fr)
 
-- 📫 How to reach me **Meriadec.Legal.Etu@uni-lemans.fr**
+- 📫 How to reach me **Meriadec.Legal.Etu@univ-lemans.fr**
 
 - 📄 Know about my experiences [m-legal.fr](m-legal.fr)
 
