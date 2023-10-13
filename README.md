@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Meriadec</h1>
+<h1 style="@import 'typed';@include typed("I'm walking here!");">Hi 👋, I'm Meriadec</h1>
 <h3>A passionate full stack developer from France</h3>
 
 - 🔭 I’m currently working on [my department's website](bdeinfo.fr)
@@ -28,3 +28,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dec-35&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
