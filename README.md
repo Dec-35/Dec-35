@@ -1,11 +1,11 @@
 <h1 style="@import 'typed';@include typed("I'm walking here!");">Hi 👋, I'm Meriadec</h1>
 <h3>A passionate full stack developer from France</h3>
 
-- 🔭 I’m currently working on [my department's website](bdeinfo.fr)
+- 🔭 I’m currently working on [my department's website](https://bdeinfo.fr)
 
 - 📫 How to reach me **Meriadec.Legal.Etu@univ-lemans.fr**
 
-- 📄 Know about my experiences [m-legal.fr](m-legal.fr)
+- 📄 Know about my experiences [m-legal.fr](https://m-legal.fr)
 
 - ⚡ Fun fact: **I'm looking for an internship in web development for April of 2024**
 
