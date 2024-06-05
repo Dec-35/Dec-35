@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [m-legal.fr](https://m-legal.fr)
 
-- ⚡ Fun fact: **I'm looking for an internship in web development for April of 2024**
+- ⚡ Fun fact: **I'm doing my internship @Akelio in Le Mans in web development**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +19,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,nodejs,express,php,mysql,python,java)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,js,nodejs,express,php,mysql,python,java,vuejs,react)
 
 
 <br>
